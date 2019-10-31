@@ -1,4 +1,4 @@
-//update notes!!
+//updated IDE permissions
 
 #include "Button2.h";
 #include <IotWebConf.h>
